@@ -52,22 +52,22 @@
 
 
 
-                                            <div class="col-lg-4">
+                                            <div class="col-lg-4 col-6">
                                                 <div class="form-group">
                                                     <input type="text" id="full-name" name="full-name" placeholder="Full Name" required>
                                                 </div>
                                             </div>
-                                            <div class="col-lg-4">
+                                            <div class="col-lg-4 col-6">
                                                 <div class="form-group">
                                                     <input type="email" id="email" name="email" placeholder="Email" required>
                                                 </div>
                                             </div>
-                                            <div class="col-lg-4">
+                                            <div class="col-lg-4 col-6">
                                                 <div class="form-group">
                                                     <input type="tel" id="phone" name="phone" placeholder="Phone" required>
                                                 </div>
                                             </div>
-                                            <div class="col-lg-4">
+                                            <div class="col-lg-4 col-6">
                                                 <div class="form-group">
                                                     <input type="text" id="company" name="company" placeholder="Company">
                                                 </div>
@@ -156,18 +156,18 @@
 
         <section class="contactBottom">
 
-            <h3 class="heading text-center">Cross-border legal representation in over 12 countries</h3>
-
+            
             <div class="containerFull">
+                <h3 class="heading text-center">Cross-border legal representation in over 12 countries</h3>
                 <div class="row">
-                    <div class="col-lg-10 offset-1">
+                    <div class="col-lg-11 mx-auto">
 
 
-                        <div class="container ps-5">
-                            <div class="regions mt-5 ms-4">
+                        <div class="container ps-md-5">
+                            <div class="regions mt-md-5 mt-3 ps-md-5">
                                 <div class="region">
                                     <h2>Asia Pacific</h2>
-                                    <p>
+                                    <p class="fontWeight300">
                                         <span>Seoul</span>
                                         <span>Shenzhen</span>
                                         <span>Singapore</span>
@@ -177,7 +177,7 @@
                                 </div>
                                 <div class="region">
                                     <h2>Europe</h2>
-                                    <p>
+                                    <p class="fontWeight300">
                                         <span>Düsseldorf</span>
                                         <span>Frankfurt</span>
                                         <span>London</span>
@@ -186,7 +186,7 @@
                                 </div>
                                 <div class="region">
                                     <h2>Latin America</h2>
-                                    <p>
+                                    <p class="fontWeight300">
                                         <span>Bogotá</span>
                                         <span>Bogotá - Ibarra Rimon</span>
                                         <span>Medellín - Ibarra Rimon</span>
@@ -194,56 +194,59 @@
                                 </div>
                                 <div class="region">
                                     <h2>Middle East</h2>
-                                    <p>
+                                    <p class="fontWeight300">
                                         <span>Tel Aviv</span>
                                     </p>
                                 </div>
                                 <div class="region">
                                     <h2>Africa</h2>
-                                    <p></p>
+                                    <p class="fontWeight300"></p>
                                 </div>
                                 <div class="region">
                                     <h2>North America</h2>
                                     <div>
-                                        <p id="north-america-cities">
+                                        <p class="fontWeight300" id="north-america-cities">
                                             <span>Albuquerque</span>
                                             <span>Austin</span>
                                             <span>Birmingham</span>
                                             <span>Boise</span>
                                             <span>Boston</span>
-                                            <span>Charlotte</span>
+                                            <span class="blnone">Charlotte</span>
                                             <span>Chicago</span>
                                             <span>Dallas</span>
                                             <span>Delaware</span>
                                             <span>Greenville</span>
                                         </p>
-                                        <p id="more-north-america-cities" style="display: none;">
-                                            <span>Houston</span>
+                                        <p class="fontWeight300" id="more-north-america-cities" style="display: none;">
+                                            <span class="blnone">Houston</span>
                                             <span>Kansas City</span>
                                             <span>Lake Tahoe</span>
                                             <span>Long Island</span>
                                             <span>Los Angeles</span>
-                                            <span>Miami</span>
+                                            <span class="blnone">Miami</span>
                                             <span>Minneapolis</span>
                                             <span>Montreal</span>
                                             <span>New Jersey</span>
                                             <span>New Orleans</span>
-                                            <span>New York</span>
+                                            <span class="blnone">New York</span>
                                             <span>Northern Virginia</span>
                                             <span>Orlando</span>
                                             <span>Philadelphia</span>
                                             <span>Phoenix</span>
-                                            <span>Portland</span>
+                                            <span class="blnone">Portland</span>
                                             <span>Raleigh</span>
                                             <span>North Carolina</span>
                                             <span>Sacramento</span>
                                             <span>San Diego</span>
-                                            <span>San Francisco</span>
+                                            <span class="blnone">San Francisco</span>
                                             <span>Santa Barbara</span>
                                             <span>Seattle</span>
-                                            <span>Silicon Valley (Menlo Park)</span>
+                                            <span>Silicon Valley(Menlo Park)</span>
+                                            <span class="blnone">St. Louis</span>
+                                            <span>Tucson</span>
+                                            <span>Washington, D.C.</span>
                                         </p>
-                                        <p class="show-more" onclick="toggleMoreCities()">Show More...</p>
+                                        <p class="show-more fontWeight300" onclick="toggleMoreCities()">Show More...</p>
                                     </div>
                                 </div>
                             </div>
@@ -261,15 +264,15 @@
         <div class="contactBox">
             <div class="contacticons">
                 <div class="iconBox"><i class="fa-solid fa-location-dot"></i></div>
-                <p><strong>US Address:</strong><br> 100 Postmaster Drive, #2831 McDonough, GA 30253, USA</p>
+                <p class="fontWeight300"><strong>US Address:</strong><br> 100 Postmaster Drive, #2831 McDonough, GA 30253, USA</p>
             </div>
             <div class="contacticons">
                 <div class="iconBox"><i class="fa-solid fa-mobile-screen"></i></div>
-                <p>+1 (202) 465-9596</p>
+                <p class="fontWeight300">+1 (202) 465-9596</p>
             </div>
             <div class="contacticons">
-                <div class="iconBox"><i class="fa-brands fa-linkedin-in"></i></div>
-                <p></p>
+                <div class="iconBox"><i class="fa-brands fa-linkedin"></i></div>
+                <p class="fontWeight300"></p>
             </div>
         </div>
 

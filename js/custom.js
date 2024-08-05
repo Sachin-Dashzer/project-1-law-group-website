@@ -150,7 +150,7 @@ $(".awardSlider").slick({
     {
       breakpoint: 1024,
       settings: {
-        slidesToShow: 1,
+        slidesToShow: 4,
         slidesToScroll: 1,
         infinite: true,
         dots: true,
@@ -159,14 +159,14 @@ $(".awardSlider").slick({
     {
       breakpoint: 600,
       settings: {
-        slidesToShow: 1,
+        slidesToShow: 3,
         slidesToScroll: 1,
       },
     },
     {
       breakpoint: 480,
       settings: {
-        slidesToShow: 1,
+        slidesToShow: 3,
         slidesToScroll: 1,
         dots: false,
         arrows: false,
@@ -227,6 +227,22 @@ document.querySelectorAll(".dropdownArrow").forEach((item , i)=>{
 
 
     item.classList.toggle('dropdownArrowActive');
+
+    document.querySelectorAll(".innerDetails")[i].classList.toggle('openTab');
+
+  })
+
+
+
+})
+
+document.querySelectorAll(".outerDetails").forEach((item , i)=>{
+
+
+  item.addEventListener("click" , ()=>{
+
+
+    document.querySelectorAll(".dropdownArrow")[i].classList.toggle('dropdownArrowActive');
 
     document.querySelectorAll(".innerDetails")[i].classList.toggle('openTab');
 

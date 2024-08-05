@@ -70,15 +70,15 @@
                     <div class="col-lg-9 offset-lg-1">
                         <div class="innerAbout">
                             <h2 class="sub_heading text_primary">SPEAKING & TRAINING</h2>
-                            <p class="mt-4">In addition to her legal prowess, Ms. Durant is a sought-after speaker, workshop facilitator, and panellist, addressing topics such as brand protection and diversity in the law. She has also served as an adjunct professor of business law and intellectual property, further contributing to legal education.
+                            <p class="mt-md-4 mt-3">In addition to her legal prowess, Ms. Durant is a sought-after speaker, workshop facilitator, and panellist, addressing topics such as brand protection and diversity in the law. She has also served as an adjunct professor of business law and intellectual property, further contributing to legal education.
                             </p>
-                            <p class="mt-3">Her dedication to nurturing the next generation of legal talent is evident through her mentorship of law students, where she shares her wealth of knowledge in intellectual property law. Her dedication, expertise, and passion for the law continue to inspire those around her, making her a formidable force in the legal sector.</p>
+                            <p class="mt-lg-3 mt-2">Her dedication to nurturing the next generation of legal talent is evident through her mentorship of law students, where she shares her wealth of knowledge in intellectual property law. Her dedication, expertise, and passion for the law continue to inspire those around her, making her a formidable force in the legal sector.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="pt-0">
+        <section class="pt-0 dividerSection">
             <div class="containerFull">
                 <div class="divider"></div>
             </div>
@@ -88,7 +88,7 @@
                 <div class="row">
                     <div class="col-lg-11 ps-lg-0">
                         <div class="aboutItemInner greyBg">
-                            <div class="rightInnerAboutLeft">
+                            <div class="rightInnerAboutLeft order-2 order-lg-1">
                                 <h4 class="heading text-uppercase fontWeight300 text-white">Ragini Shah</h4>
                                 <p>An UC Berkeley graduate in Intellectual Property Law is a Senior Partner at AMD LAW GROUP and a Global Alliance Partner at RIMON LAW. With over a decade of profound experience in the legal arena, Ragini’s expertise in Intellectual Property as well as Corporate law make her an asset to the firm. Her experience shines particularly bright in international IP strategies, legal opinions, product development and expediting patent filings on an international scale, especially in the USA and in India.</p>
                                 <p>Ragini has serviced some notable Healthcare organizations in the US, such as Clinton Health Access Initiative, she has extensively worked with some of India’s leading companies in Telecom, home appliances, medical devices companies, software, etc., showcasing her ability to deliver top-tier legal services to industry giants from versatile fields.</p>
@@ -103,7 +103,7 @@
                                     <a href="/" class="btnWhite">Book an appointment</a>
                                 </div>
                             </div>
-                            <div class="imgAboutInnerRight">
+                            <div class="imgAboutInnerRight order-1 order-lg-2">
                                 <picture>
                                     <source srcset="images/ragni-shah.webp" type="image/type" />
                                     <img src="images/ragni-shah.jpg" />

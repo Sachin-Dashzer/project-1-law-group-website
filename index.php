@@ -23,10 +23,10 @@
             <div class="containerFull">
                 <div class="bannerText">
                     <h1 class="heading"><span class="large_heading">20+</span> Areas of Expertise</h1>
-                    <h2 class="heading mt-4">Seamless cross border Legal representation in</h2>
+                    <h2 class="heading mt-md-4 mt-2">Seamless cross border Legal representation in</h2>
                     <h3 class="heading">over <span class="large_heading">12 countries</span></h3>
-                    <h3 class="heading mt-4">In Partnership with <span class="large_heading">RIMON LAW</span></h3>
-                    <h3 class="heading mt-4">Award-winning Partners</h3>
+                    <h3 class="heading mt-md-4 mt-2">In Partnership with <span class="large_heading">RIMON LAW</span></h3>
+                    <h3 class="heading mt-md-4 mt-2">Award-winning Partners</h3>
                     <a href="#clientLogos"><i class="bi bi-chevron-down"></i></a>
                 </div>
             </div>
@@ -35,7 +35,7 @@
             <div class="containerFull">
                 <h4 class="large_heading letterSpace2 text-center text-white text-uppercase fontHeading">Awards</h4>
                 <div class="row mt-lg-5">
-                    <div class="col-lg-10 offset-lg-1">
+                    <div class="col-md-10 offset-md-1">
                         <div class="awardSlider">
                             <div class="itemAward">
                                 <div class="innerAward">
@@ -97,17 +97,17 @@
                     </div>
                 </div>
                 <div class="row mt-lg-5">
-                    <div class="col-lg-4">
+                    <div class="col-md-4">
                         <div class="itemAwardText">
                             <p class="title">Member of Berkeley Global Society, a selective close-knit network which works together internationally </p>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-md-4">
                         <div class="itemAwardText">
                             <p class="title">Good Food India - Member as <br class="d-none d-lg-block" />Legal Partner</p>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-md-4">
                         <div class="itemAwardText broderNone">
                             <p class="title">Empanelled as a Facilitator <br class="d-none d-lg-block" />under the SIPP Scheme</p>
                         </div>

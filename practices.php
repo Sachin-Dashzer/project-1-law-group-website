@@ -19,7 +19,7 @@
 <body onload="createCaptcha();">
     <div class="wrapper">
         <?php include 'include/header.php'; ?>
-        <section class="shortBanner" style="background-image: url(images/bg/about-bg.jpg);">
+        <section class="shortBanner" style="background-image: url(images/bg/practices-bg.jpg);">
             <div class="containerFull h-100">
                 <div class="shortBannerText">
                     <h1 class="large_heading fontHeading text-uppercase text-white"><span>Practices</span></h1>
@@ -29,21 +29,21 @@
 
 
 
-        <section class="bgDark">
+        <section class="bgDark productSection">
             <div class="containerFull">
                 <div class="row">
-                    <div class="col-lg-8 offset-2">
+                    <div class="col-lg-8 offset-lg-2">
                         <div class="practicesContainer">
-                            <h2 class="small_heading ps-5"> Our practice provides comprehensive legal services in all areas
+                            <h2 class="small_heading ps-md-4"> Our practice provides comprehensive legal services in all areas <br class="d-none d-lg-block" >
                                 with particular focus on the following areas:</h2>
                         </div>
 
-                        <div class="practicesList">
+                        <div class="practicesList mt-3 mt-md-5">
 
-                            <div class="row mt-4">
+                            <div class="row">
                                 <div class="col-lg-6 productsItem">
 
-                                    <ul>
+                                    <ul class="fontWeight300">
                                         <li>Artificial Intelligence</li>
                                         <li>Technology Law</li>
                                         <li>Data Privacy</li>
@@ -60,7 +60,7 @@
                                 </div>
                                 <div class="col-lg-6 productsItem">
 
-                                    <ul>
+                                    <ul class="fontWeight300">
 
                                         <li>Compliance & Corporate Governance</li>
                                         <li>Venture Capital</li>

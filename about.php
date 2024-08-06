@@ -83,7 +83,7 @@
                 <div class="divider"></div>
             </div>
         </section>
-        <section>
+        <section> 
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-11 ps-lg-0">

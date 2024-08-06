@@ -612,8 +612,8 @@
   .shortBannerText h1 span {
     padding: 10px 30px;
   }
-  .innerAbout ul li{
-    font-size: 19px;
+  .innerAbout ul li {
+    font-size: 20px;
   }
 
   .rightInnerAbout,
@@ -646,6 +646,87 @@
   .dividerSection {
     padding: 0;
   }
+
+  .dropdownArrow{
+    padding-top: 56px;
+  }
+
+  .outerDetails{
+    padding: 0;
+  }
+
+  .outerDetails .small_heading {
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: 100;
+}
+
+.teamDropdown {
+  padding: 50px 10px;
+}
+.form-group input, .form-group select, .form-group textarea , .selected {
+ 
+  height: 52px;
+  padding: 8px 15px;
+  font-size: 16px;
+  margin: 6px 0;
+  font-weight: 600;
+  
+}
+.form-group textarea{
+  height: 120px;
+  padding-top: 15px;
+}
+.select{
+  margin: 0 20px;
+  margin-left: 0;
+  margin-bottom: 12px;
+}
+.form-container{
+  margin-top: 20px;
+}
+.option{
+  font-size: 15px;
+}
+.heading {
+  font-size: 24px;
+}
+.region h2{
+  padding-left: 0;
+  font-size: 18px;
+}
+.region span {
+  padding: 0px 10px;
+}
+.region p{
+  padding-left: 10px;
+}
+.show-more{
+  margin-left: 0;
+}
+.contacticons {
+  padding: 0 22px;
+}
+.contactBox{
+  padding: 45px 0;
+}
+.productsItem ul li{
+  padding-left: 20px;
+}
+.productsItem ul li:before {
+  width: 7px;
+  height: 8px;
+  top: 10px;
+  left: 2px;
+}
+
+
+
+
+
+
+
+
 }
 @media (min-width: 1024px) {
 }

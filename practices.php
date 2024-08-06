@@ -38,10 +38,10 @@
                                 with particular focus on the following areas:</h2>
                         </div>
 
-                        <div class="practicesList mt-3 mt-md-5">
+                        <div class="practicesList mt-3 mt-md-4 mt-lg-5">
 
-                            <div class="row">
-                                <div class="col-lg-6 productsItem">
+                            <div class="row px-md-2 px-lg-0">
+                                <div class="col-md-6 productsItem">
 
                                     <ul class="fontWeight300">
                                         <li>Artificial Intelligence</li>
@@ -58,7 +58,7 @@
                                         <li>Product & Industry</li>
                                     </ul>
                                 </div>
-                                <div class="col-lg-6 productsItem">
+                                <div class="col-md-6 productsItem">
 
                                     <ul class="fontWeight300">
 

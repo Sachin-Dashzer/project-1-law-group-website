@@ -36,7 +36,7 @@
 
             <div class="containerFull">
                 <div class="row">
-                    <div class="col-lg-11 mx-auto mt-4">
+                    <div class="col-md-11 mx-auto mt-4">
                         <div class="formBox">
 
 
@@ -44,7 +44,7 @@
                                 <div class="col-lg-3 pt-2 form_heading">
                                     <h2 class="large_heading">Get in touch today!</h2>
                                 </div>
-                                <div class="col-lg-9">
+                                <div class="col-lg-9 mt-md-3 mt-lg-0">
 
                                     <form action="#" method="post">
 
@@ -163,8 +163,8 @@
                     <div class="col-lg-11 mx-auto">
 
 
-                        <div class="container ps-md-5">
-                            <div class="regions mt-md-5 mt-3 ps-md-5">
+                        <div class="container ps-lg-5">
+                            <div class="regions mt-md-5 mt-3 ps-lg-5">
                                 <div class="region">
                                     <h2>Asia Pacific</h2>
                                     <p class="fontWeight300">
@@ -264,7 +264,7 @@
         <div class="contactBox">
             <div class="contacticons">
                 <div class="iconBox"><i class="fa-solid fa-location-dot"></i></div>
-                <p class="fontWeight300"><strong>US Address:</strong><br> 100 Postmaster Drive, #2831 McDonough, GA 30253, USA</p>
+                <p class="fontWeight300"><strong>US Address:</strong><br> 100 Postmaster Drive, #2831 McDonough,<br /> GA 30253, USA</p>
             </div>
             <div class="contacticons">
                 <div class="iconBox"><i class="fa-solid fa-mobile-screen"></i></div>

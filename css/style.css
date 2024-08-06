@@ -650,18 +650,15 @@ section{
   font-size: 13px;
 }
 
-.form-group input , .form-group select  , .form-group textarea{
-
+.form-group input, .form-group select, .form-group textarea {
   width: 100%;
-  height: 48px;
+  height: 50px;
   padding: 0 15px;
   font-size: 15px;
-  margin: 15px;
+  margin: 8px 15px;
   margin-left: 0;
   letter-spacing: 1px;
-
 }
-
 
 .form-group input::placeholder , .form-group select::placeholder  , .form-group textarea::placeholder{
 
@@ -729,7 +726,7 @@ section{
   width: 100%;
   height: 45px;
   font-size: 15px;
-  margin: 15px 20px;
+  margin: 9px 20px;
   margin-left: 0;
   cursor: pointer;
   position: relative;

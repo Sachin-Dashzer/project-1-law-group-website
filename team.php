@@ -26,7 +26,7 @@
                 </div>
             </div>
         </section>
-        <section>
+        <section class="bgUltraDark">
             <div class="containerFull">
                 <div class="row">
                     <div class="col-md-10 offset-md-1">
@@ -132,8 +132,8 @@
                                     </div>
                                     <div class="col-md-9 ">
                                         <div class="outerDetails">
-                                            <h3 class="sub_heading ">INTERNATIONAL TRADEMARKS &</h3>
-                                            <h5 class="small_heading mt-lg-3 mt-2">Our Trademarks & Copyrights Department excels in securing and defending brand identities & creative works in an increasingly</h5>
+                                            <h3 class="sub_heading ">INTERNATIONAL TRADEMARKS & COPYRIGHTS</h3>
+                                            <h5 class="small_heading mt-lg-3 mt-2">Our Trademarks & Copyrights Department excels in securing and defending brand identities & creative works in an increasingly competitive market in US, India and other jurisdictions. </h5>
                                             <div class="innerDetails mt-lg-4 mt-3">
                                                 <p><span>Our experienced attorneys navigate the complexities of registration and enforcement.</span> Our team also provides strategic advice on brand management, to strengthen your brand’s presence and value across multiple jurisdictions. With our experts by your side, you can be confident that your intellectual property is in capable hands, allowing you to focus on growing your business.</p>
                                                 

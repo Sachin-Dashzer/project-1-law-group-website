@@ -479,6 +479,7 @@ section{
   margin-top: 20px;
 }
 .innerAbout ul li{
+  color: #ffffff52;
   padding: 12px 0px;
   font-family: 'DIN-Pro-Medium-500', sans-serif;
   border-bottom: 1px solid var(--primary-color);
@@ -564,7 +565,7 @@ section{
 
 .innerDetails p {
 
-  font-size: 18px;
+  font-size: 20px;
 }
 .outerDetails{
   transition: all 0.4s ease-in-out;
@@ -746,7 +747,15 @@ section{
   padding: 0 15px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-weight: 300;}
+  font-weight: 300;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-wrap: nowrap;
+
+}
+.bgUltraDark{
+  background-color: #000;
+}
 
 .arrow {
   position: relative;
@@ -894,4 +903,24 @@ section{
 }
 .contactBottom{
   padding-bottom: 0;
+}
+
+.aboutDropBox{
+  height: 0;
+  overflow: hidden;
+  transition: height 0.4s ease-in-out;
+}
+.aboutDropBox img{
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
+.aboutDropActive{
+  height: fit-content;
+  padding: 30px;
+}
+
+.innerAboutLogo ul li span{
+  float: right;
+  margin-right: 10px;
 }

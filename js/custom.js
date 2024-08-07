@@ -216,75 +216,62 @@ $(".blogSlider").slick({
   ],
 });
 
+document.querySelectorAll(".dropdownArrow").forEach((item, i) => {
+  item.addEventListener("click", () => {
+    item.classList.toggle("dropdownArrowActive");
 
-
-
-
-document.querySelectorAll(".dropdownArrow").forEach((item , i)=>{
-
-
-  item.addEventListener("click" , ()=>{
-
-
-    item.classList.toggle('dropdownArrowActive');
-
-    document.querySelectorAll(".innerDetails")[i].classList.toggle('openTab');
-
-  })
-
-
-
-})
-
-document.querySelectorAll(".outerDetails").forEach((item , i)=>{
-
-
-  item.addEventListener("click" , ()=>{
-
-
-    document.querySelectorAll(".dropdownArrow")[i].classList.toggle('dropdownArrowActive');
-
-    document.querySelectorAll(".innerDetails")[i].classList.toggle('openTab');
-
-  })
-
-
-
-})
-
-
-
-
-
-document.querySelectorAll('.select').forEach(select => {
-  select.addEventListener('click', () => {
-    select.classList.toggle('active');
+    document.querySelectorAll(".innerDetails")[i].classList.toggle("openTab");
   });
 });
 
-document.querySelectorAll('.select input[type="radio"]').forEach(radio => {
-  radio.addEventListener('change', (e) => {
-    const select = e.target.closest('.select');
-    const selected = select.querySelector('.selected');
-    const checkedLabel = select.querySelector(`label[for="${e.target.id}"]`);
-    
-    if (checkedLabel) {
-      selected.textContent = checkedLabel.getAttribute('data-txt');
+document.querySelectorAll(".outerDetails").forEach((item, i) => {
+  item.addEventListener("click", () => {
+    document
+      .querySelectorAll(".dropdownArrow")
+      [i].classList.toggle("dropdownArrowActive");
+    document.querySelectorAll(".innerDetails")[i].classList.toggle("openTab");
+  });
+});
+
+document.querySelectorAll(".innerAboutLogo ul li").forEach((item, i) => {
+  item.addEventListener("click", () => {
+    document
+      .querySelectorAll(".aboutDropBox")
+      [i].classList.toggle("aboutDropActive");
+  });
+});
+
+document.querySelectorAll(".select").forEach((select) => {
+  select.addEventListener("click", () => {
+    if (document.querySelector(".form-group .active")) {
+      document.querySelector(".form-group .active").classList.remove("active");
     }
-    
-    select.classList.remove('active');
+    select.classList.add("active");
   });
 });
 
+document.querySelectorAll('.select input[type="radio"]').forEach((radio) => {
+  radio.addEventListener("change", (e) => {
+    const select = e.target.closest(".select");
+    const selected = select.querySelector(".selected");
+    const checkedLabel = select.querySelector(`label[for="${e.target.id}"]`);
+
+    if (checkedLabel) {
+      selected.textContent = checkedLabel.getAttribute("data-txt");
+    }
+
+    select.classList.remove("active");
+  });
+});
 
 function toggleMoreCities() {
-  const moreCities = document.getElementById('more-north-america-cities');
-  const showMoreText = document.querySelector('.show-more');
-  if (moreCities.style.display === 'none') {
-      moreCities.style.display = 'block';
-      showMoreText.textContent = 'Show Less...';
+  const moreCities = document.getElementById("more-north-america-cities");
+  const showMoreText = document.querySelector(".show-more");
+  if (moreCities.style.display === "none") {
+    moreCities.style.display = "block";
+    showMoreText.textContent = "Show Less...";
   } else {
-      moreCities.style.display = 'none';
-      showMoreText.textContent = 'Show More...';
+    moreCities.style.display = "none";
+    showMoreText.textContent = "Show More...";
   }
 }

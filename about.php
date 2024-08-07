@@ -26,7 +26,7 @@
                 </div>
             </div>
         </section>
-        <section>
+        <section class="bgUltraDark">
             <div class="containerFull">
                 <div class="row">
                     <div class="col-lg-9 offset-lg-1">
@@ -39,7 +39,7 @@
                 </div>
             </div>
         </section>
-        <section class="pb-0">
+        <section class="pb-0 bgUltraDark">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-11 offset-lg-1 pe-lg-0">
@@ -52,8 +52,8 @@
                             </div>
                             <div class="rightInnerAbout">
                                 <h4 class="heading fontWeight300 text-white">AURELIA MITCHELL DURANT</h4>
-                                <p>Founder and Managing Partner of AMD LAW GROUP, is a pioneering figure in the legal landscape, with a career spanning over two decades. Ms. Durant's areas of focus encompass a wide spectrum of legal specialties, including Intellectual Property, International Business Law, Entertainment, Sports and Media, Technology Licensing, Emerging Companies and Venture Capital, Trademark, Copyright, and Artificial Intelligence.</p>
-                                <p>Throughout her career, Ms. Durant has advised on complex trademark, patent, and copyright matters before prestigious institutions such as the USPTO, TTAB, and U.S. Copyright Office. She has managed international intellectual property portfolios for national organizations and negotiated investment financing for multinational start-ups. Ms. Durant's impressive portfolio includes directing the intellectual property interests of music professionals, liaising with licensing executives for copyright content clearance, and leading the legal team for the development of a global money transfer online application valued at $2 billion. She has been pivotal in restructuring corporate boards within the not-for-profit sector, emphasizing compliance and governance best practices.</p>
+                                <p>Aurelia Mitchell Durant, founder and Managing Partner of AMD LAW GROUP, is a pioneering figure in the legal landscape, with a career spanning over two decades. Ms. Durant's areas of focus encompass a wide spectrum of legal specialties, including Intellectual Property, International Business Law, Entertainment, Sports and Media, Technology Licensing, Emerging Companies and Venture Capital, Trademark, Copyright, and Artificial Intelligence.</p>
+                                <p>Throughout her career, Ms. Durant has advised on complex trademark, patent, and copyright matters before prestigious institutions such as the USPTO, TTAB, and U.S. Copyright Office. She has managed international intellectual property portfolios for national organizations and negotiated investment financing for multinational start-ups. Ms. Durant's impressive portfolio includes directing the intellectual property interests of music professionals, liaising with licensing executives for copyright content clearance, and leading the legal team for the development of a global money transfer online application valued at $2 billion. She has been pivotal in restructuring corporate boards within the not-for-profit sector, emphasizing compliance and governance best practices. </p>
                                 <a href="https://www.rimonlaw.com/" target="_blank" class="btnLink">www.rimonlaw.com</a>
                                 <div>
                                     <a href="/" class="btnWhite">Book an appointment</a>
@@ -64,7 +64,7 @@
                 </div>
             </div>
         </section>
-        <section>
+        <section class="bgUltraDark">
             <div class="containerFull">
                 <div class="row">
                     <div class="col-lg-9 offset-lg-1">
@@ -78,21 +78,21 @@
                 </div>
             </div>
         </section>
-        <section class="pt-0 dividerSection">
+        <section class="pt-0 dividerSection bgUltraDark">
             <div class="containerFull">
                 <div class="divider"></div>
             </div>
         </section>
-        <section> 
+        <section class="bgUltraDark">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-11 ps-lg-0">
                         <div class="aboutItemInner greyBg">
                             <div class="rightInnerAboutLeft order-2 order-lg-1">
                                 <h4 class="heading text-uppercase fontWeight300 text-white">Ragini Shah</h4>
-                                <p>An UC Berkeley graduate in Intellectual Property Law is a Senior Partner at AMD LAW GROUP and a Global Alliance Partner at RIMON LAW. With over a decade of profound experience in the legal arena, Ragini’s expertise in Intellectual Property as well as Corporate law make her an asset to the firm. Her experience shines particularly bright in international IP strategies, legal opinions, product development and expediting patent filings on an international scale, especially in the USA and in India.</p>
-                                <p>Ragini has serviced some notable Healthcare organizations in the US, such as Clinton Health Access Initiative, she has extensively worked with some of India’s leading companies in Telecom, home appliances, medical devices companies, software, etc., showcasing her ability to deliver top-tier legal services to industry giants from versatile fields.</p>
-                                <p>Within the realm of IP and Technology Law, Ms. Shah and her team of attorneys, patent agents, paralegals and technology experts are proficient in patents, designs, trademarks, Master Service Agreements, Data Sharing Agreements, Technology transfer Agreements, Trade Secrets, Licensing Agreements, inter alia.</p>
+                                <p>Ragini Shah, a UC Berkeley graduate in Intellectual Property Law is a Senior Partner at AMD LAW GROUP and a Global Alliance Partner at RIMON LAW. With over a decade of profound experience in the legal arena, Ragini’s expertise in Intellectual Property as well as Corporate law make her an asset to the firm. Her experience shines particularly bright in international IP strategies, legal opinions, product development and expediting patent filings on an international scale, especially in the USA and in India. </p>
+                                <p>Ragini has serviced some notable Healthcare organizations in the US, such as Clinton Health Access Initiative; she has extensively worked with some of India’s leading companies in Telecom, home appliances, medical devices companies, software, etc., showcasing her ability to deliver top-tier legal services to industry giants from versatile fields.</p>
+                                <p>Within the realm of IP and Technology Law, Ms. Shah and her team of attorneys, patent agents, paralegals and technology experts are proficient in patents, designs, trademarks, Master Service Agreements, Data Sharing Agreements, Technology transfer Agreements, Trade Secrets, Licensing Agreements, inter alia. </p>
                                 <div class="moreContent" style="display:block">
                                     <p>Externally, Ms. Shah's influence extends to shaping policy and regulations within the legal landscape. She has lent her expertise to advising the Indian Patent Office on drafting the National Pharmaceutical Guidelines in 2014, contributing to the much-needed updates in patent regulations at the time. Currently, Ms. Shah is at the forefront of advising international non-profit organizations, and has been elected as a facilitator by the Indian Government to represent and guide Indian Companies with their inventions and Patents.
                                     </p>
@@ -114,24 +114,100 @@
                 </div>
             </div>
         </section>
-        <section class="pt-lg-1">
+        <section class="pt-lg-1 bgUltraDark">
             <div class="containerFull">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
-                        <div class="innerAbout">
+                        <div class="innerAbout innerAboutLogo">
                             <h2 class="sub_heading text_primary">AWARDS & RECOGNITIONS</h2>
                             <ul>
-                                <li>ALB India‘s Top IP Lawyers 2022</li>
-                                <li>Awarded as Top IP lawyers 2021-2022 by Asian Legal Business</li>
-                                <li>Finalist of Women in Business Law Global Awards 2022</li>
-                                <li>Awarded as India’s Future Legal Leaders 2022 by India Business Law Journal (IBLJ)</li>
-                                <li>Awarded Top 30 Disputes Lawyers by Asian Legal Business</li>
-                                <li>Featured as Top 10 Women in IP by Women Entrepreneur Magazine</li>
-                                <li>Awarded as Top IP lawyers 2020-2021 by Asian Legal Business</li>
-                                <li>Top Individual Lawyer by India Forbes in Legal Powerlist 2021</li>
-                                <li>Member of Berkeley Global Society, a selective close-knit network which works together internationally</li>
-                                <li>Good Food India - Member as Legal Partner</li>
-                                <li>Empanelled as a Facilitator under the SIPP Scheme</li>
+                                <li>ALB India’s Top IP Lawyers 2022 <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-1.webp" type="image/webp" />
+                                            <img src="images/about/about-1.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Awarded as Top IP lawyers 2021-2022 by Asian Legal Business <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-3.webp" type="image/webp" />
+                                            <img src="images/about/about-3.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Finalist of Women in Business Law Global Awards 2022 <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-4.webp" type="image/webp" />
+                                            <img src="images/about/about-4.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Awarded as India’s Future Legal Leaders 2022 by India Business Law Journal (IBLJ) <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-5.webp" type="image/webp" />
+                                            <img src="images/about/about-5.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Awarded Top 30 Disputes Lawyers by Asian Legal Business <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-6.webp" type="image/webp" />
+                                            <img src="images/about/about-6.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Featured as Top 10 Women in IP by Women Entrepreneur Magazine <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-7.webp" type="image/webp" />
+                                            <img src="images/about/about-7.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Awarded as Top IP lawyers 2020-2021 by Asian Legal Business <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-9.webp" type="image/webp" />
+                                            <img src="images/about/about-9.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Top Individual Lawyer by India Forbes in Legal Powerlist 2021 <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-81.webp" type="image/webp" />
+                                            <img src="images/about/about-81.png" />
+                                        </picture>
+                                        <picture>
+                                            <source srcset="images/about/about-82.webp" type="image/webp" />
+                                            <img src="images/about/about-82.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Member of Berkeley Global Society, a selective close-knit network which works together internationally <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-10.webp" type="image/webp" />
+                                            <img src="images/about/about-10.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Good Food India - Member as Legal Partner <span><i class="fa-solid fa-angle-down"></i></span>
+                                    <div class="aboutDropBox">
+                                        <picture>
+                                            <source srcset="images/about/about-11.webp" type="image/webp" />
+                                            <img src="images/about/about-11.png" />
+                                        </picture>
+                                    </div>
+                                </li>
+                                <li>Empanelled as a Facilitator under the SIPP Scheme <span><i class="fa-solid fa-angle-down"></i></span>
+                                    
+                                </li>
                             </ul>
                         </div>
                     </div>

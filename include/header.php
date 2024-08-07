@@ -17,11 +17,14 @@
 					<li class="<?php if ($page == 'team') {
 									echo 'active';
 								} ?>"><a href="team.php">Our Team</a></li>
+					<li class="<?php if ($page == 'practices') {
+									echo 'active';
+								} ?>"><a href="practices.php">Expertise</a></li>
 					<li class="<?php if ($page == 'contact') {
 									echo 'active';
 								} ?>"><a href="contact.php">Contact Us</a></li>
 					<li><a href="/">Blog</a></li>
-					<li><a href="/">Podcast</a></li>
+					<!--<li><a href="/">Podcast</a></li>-->
 				</ul>
 
 

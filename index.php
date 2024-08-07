@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-    <title>AMDa | Home</title>
+    <title>AMD | Home</title>
     <?php include 'include/head-links.php'; ?>
     <meta property="og:url" content="<?php echo $page_url ?>">
     <meta property="og:title" content="">

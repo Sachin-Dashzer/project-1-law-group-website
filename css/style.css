@@ -237,7 +237,6 @@ section{
 
 .bannerText h1 span, .bannerText h3 span{
   font-family: 'DIN-Pro-Medium-500', sans-serif;
-  border-bottom: 2px solid var(--primary-color);
 }
 .bannerText a{
   font-size: 35px;
@@ -291,6 +290,17 @@ section{
 .slick-prev:before {
   display: none;
 }
+
+
+.offcanvas-body ul li{
+  margin-top: 15px;margin-left: 10px;
+}
+.offcanvas-body ul li a{
+  color: #000;
+  font-size: 20px;
+  
+}
+
 
 .slick-next,
 .slick-prev {

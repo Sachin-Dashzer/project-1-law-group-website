@@ -23,10 +23,10 @@
             <div class="containerFull">
                 <div class="bannerText">
                     <h1 class="heading"><span class="large_heading">20+</span> Areas of Expertise</h1>
-                    <h2 class="heading mt-md-4 mt-2">Seamless cross border Legal representation in</h2>
+                    <h2 class="heading mt-lg-4 mt-md-3 mt-2">Seamless cross border Legal representation in</h2>
                     <h3 class="heading">over <span class="large_heading">12 countries</span></h3>
-                    <h3 class="heading mt-md-4 mt-2">In Partnership with <span class="large_heading">RIMON LAW</span></h3>
-                    <h3 class="heading mt-md-4 mt-2">Award-winning Partners</h3>
+                    <h3 class="heading mt-lg-4 mt-md-3 mt-2">In Partnership with <span class="large_heading">RIMON LAW</span></h3>
+                    <h3 class="heading mt-lg-4 mt-md-3 mt-2">Award-winning Partners</h3>
                     <a href="#clientLogos"><i class="bi bi-chevron-down"></i></a>
                 </div>
             </div>

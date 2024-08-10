@@ -356,18 +356,18 @@
     padding-top: 20px;
   }
 
-  .form-group input,
-  .form-group select,
-  .form-group textarea,
-  .select {
+  .form-group input, .form-group select, .form-group textarea, .select {
     width: 100%;
-    height: 40px;
-    padding: 0 15px;
-    font-size: 15px;
+    height: 37px;
+    padding: 0 9px;
+    font-size: 12px;
     margin: 5px;
     margin-left: 0;
     letter-spacing: 0px;
-  }
+}
+.selected{
+  padding: 0 12px;
+}
 
   .select {
     padding: 0;
@@ -383,7 +383,7 @@
   .form-group textarea::placeholder,
   .selected {
     letter-spacing: normal;
-    font-size: 15px;
+    font-size: 14px;
   }
   .form-group textarea {
     height: 100px;
@@ -514,7 +514,7 @@
 
 @media (min-width: 768px) and (max-width: 990px) {
   p {
-    font-size: 17px;
+    font-size: 16px;
   }
   section {
     padding: 40px 0 40px;
@@ -523,20 +523,20 @@
     padding: 0 15px;
   }
   .large_heading {
-    font-size: 35px;
+    font-size: 33px;
     line-height: 50px;
   }
   .heading {
-    font-size: 30px;
+    font-size: 28px;
   }
   .sub_heading {
-    font-size: 25px;
-  }
-  .small_heading {
     font-size: 23px;
   }
+  .small_heading {
+    font-size: 20px;
+  }
   .title {
-    font-size: 18px;
+    font-size: 17px;
   }
   .text {
     font-size: 15px;
@@ -562,7 +562,7 @@
 
   .rightMenu ul li a {
     padding: 0px 7px;
-    font-size: 17px;
+    font-size: 15px;
     line-height: 83px;
   }
 
@@ -572,20 +572,20 @@
 
   .bannerText {
     text-align: center;
-    height: 82vh;
+    height: 90vh;
   }
   .bannerText .heading {
-    font-size: 27px;
+    font-size: 22px;
   }
   .bannerText .large_heading {
-    font-size: 32px;
+    font-size: 27px;
   }
   .bannerText a {
     -webkit-transform: unset;
     transform: translateY(20px);
   }
   .heroBanner {
-    height: 76vh;
+    height: 89vh;
   }
   .slick-next {
     right: -42px !important;
@@ -599,7 +599,7 @@
   }
 
   .itemAwardText .title {
-    font-size: 18px;
+    font-size: 14px;
   }
   .innerAward {
     height: 135px;
@@ -613,9 +613,11 @@
     padding: 10px 30px;
   }
   .innerAbout ul li {
-    font-size: 20px;
+    font-size: 17px;
   }
-
+  .footer p {
+    font-size: 10px;
+  }
   .rightInnerAbout,
   .rightInnerAboutLeft {
     width: 100%;
@@ -647,86 +649,93 @@
     padding: 0;
   }
 
-  .dropdownArrow{
+  .dropdownArrow {
     padding-top: 56px;
   }
 
-  .outerDetails{
+  .outerDetails {
     padding: 0;
   }
-
+  .outerDetails .sub_heading{
+    font-size: 25px;
+  }
   .outerDetails .small_heading {
-    font-size: 21px;
+    font-size: 19px;
     line-height: 27px;
     font-weight: 100;
-}
+  }
+  .practicesContainer h2{
+    font-size: 24px;
+  }
+  .productsItem ul li{
+    font-size: 16px;
+  }
+  .teamDropdown {
+    padding: 50px 10px;
+  }
+  .form-group input,
+  .form-group select,
+  .form-group textarea,
+  .selected {
+    height: 52px;
+    padding: 8px 15px;
+    font-size: 14px;
+    margin: 6px 0;
+    font-weight: 600;
+  }
+  .form-group textarea {
+    height: 120px;
+    padding-top: 15px;
+  }
+  .select {
+    margin: 0 20px;
+    margin-left: 0;
+    margin-bottom: 12px;
+  }
+  .form-container {
+    margin-top: 20px;
+  }
+  .option {
+    font-size: 15px;
+  }
+  .heading {
+    font-size: 24px;
+  }
+  .region h2 {
+    padding-left: 0;
+    font-size: 18px;
+  }
+  .contacticons p{
+    font-size: 14px;
+  }
+  .region span {
+    padding: 0px 10px;
+  }
+  .region p {
+    padding-left: 10px;
+  }
+  .show-more {
+    margin-left: 0;
+  }
+  .contacticons {
+    padding: 0 22px;
+  }
+  .contactBox {
+    padding: 45px 0;
+  }
+  .productsItem ul li {
+    padding-left: 20px;
+  }
+  .productsItem ul li:before {
+    width: 7px;
+    height: 8px;
+    top: 8px;
+    left: 2px;
+  }
 
-.teamDropdown {
-  padding: 50px 10px;
-}
-.form-group input, .form-group select, .form-group textarea , .selected {
- 
-  height: 52px;
-  padding: 8px 15px;
-  font-size: 16px;
-  margin: 6px 0;
-  font-weight: 600;
-  
-}
-.form-group textarea{
-  height: 120px;
-  padding-top: 15px;
-}
-.select{
-  margin: 0 20px;
-  margin-left: 0;
-  margin-bottom: 12px;
-}
-.form-container{
-  margin-top: 20px;
-}
-.option{
-  font-size: 15px;
-}
-.heading {
-  font-size: 24px;
-}
-.region h2{
-  padding-left: 0;
-  font-size: 18px;
-}
-.region span {
-  padding: 0px 10px;
-}
-.region p{
-  padding-left: 10px;
-}
-.show-more{
-  margin-left: 0;
-}
-.contacticons {
-  padding: 0 22px;
-}
-.contactBox{
-  padding: 45px 0;
-}
-.productsItem ul li{
-  padding-left: 20px;
-}
-.productsItem ul li:before {
-  width: 7px;
-  height: 8px;
-  top: 10px;
-  left: 2px;
-}
-
-
-
-
-
-
-
-
+  .innerDetails p {
+    font-size: 19px;
+  }
 }
 @media (min-width: 1024px) {
 }

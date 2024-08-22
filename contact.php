@@ -168,6 +168,7 @@
                                 <div class="region">
                                     <h2>Asia Pacific</h2>
                                     <p class="fontWeight300">
+                                        <span>India</span>
                                         <span>Seoul</span>
                                         <span>Shenzhen</span>
                                         <span>Singapore</span>
@@ -185,7 +186,7 @@
                                     </p>
                                 </div>
                                 <div class="region">
-                                    <h2>Latin America</h2>
+                                    <h2>South America</h2>
                                     <p class="fontWeight300">
                                         <span>Bogotá</span>
                                         <span>Bogotá - Ibarra Rimon</span>

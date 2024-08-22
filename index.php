@@ -33,7 +33,7 @@
         </div>
         <section class="bgBlack" id="clientLogos">
             <div class="containerFull">
-                <h4 class="large_heading letterSpace2 text-center text-white text-uppercase fontHeading">Awards</h4>
+                <h4 class="large_heading letterSpace2 text-center text-white text-uppercase">Awards</h4>
                 <div class="row mt-lg-5">
                     <div class="col-md-10 offset-md-1">
                         <div class="awardSlider">

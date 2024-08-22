@@ -233,7 +233,7 @@ section{
 .bannerText h1, .bannerText h2, .bannerText h3{
   text-transform: uppercase;
   letter-spacing: 2px;
-  text-aling: center;
+  text-align: center;
   font-size: 36px;
 }
 /*.bannerText h2{*/

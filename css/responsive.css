@@ -510,6 +510,9 @@
     transform: translateY(12px);
     -webkit-transform: unset;
   }
+  .bannerText h2{
+      line-height:40px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 990px) {

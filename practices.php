@@ -34,8 +34,7 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="practicesContainer">
-                            <h2 class="small_heading ps-md-4"> Our practice provides comprehensive legal services in all areas <br class="d-none d-lg-block" >
-                                with particular focus on the following areas:</h2>
+                            <h2 class="small_heading ps-md-4"> Our practice provides comprehensive legal services in all areas with particular focus on the following areas:</h2>
                         </div>
 
                         <div class="practicesList mt-3 mt-md-4 mt-lg-5">
@@ -45,34 +44,35 @@
 
                                     <ul class="fontWeight300">
                                         <li>Artificial Intelligence</li>
-                                        <li>Technology Law</li>
-                                        <li>Data Privacy</li>
+                                        <li>Commercial Law</li>
+                                        <li>Compliance & Corporate Governance</li>
+                                        <li>Copyright Law</li>
                                         <li>Cybersecurity</li>
-                                        <li>International Intellectual Property</li>
-                                        <li>Intellectual Property Due Diligence</li>
-                                        <li>Patent Law</li>
+                                        <li>Data Privacy</li>
                                         <li>Design Law</li>
-                                        <li>Trademark Law</li>
-                                        <li>Product Development Assistance</li>
-                                        <li>Whitespace Analysis</li>
-                                        <li>Product & Industry</li>
+                                        <li>Entertainment Law</li>
+                                        <li>Intellectual Property Due Diligence</li>
+                                        <li>International Intellectual Property</li>
+                                        <li>Life Sciences</li>
+                                       <li>Media Law</li>
+    
                                     </ul>
                                 </div>
                                 <div class="col-md-6 productsItem">
 
                                     <ul class="fontWeight300">
 
-                                        <li>Compliance & Corporate Governance</li>
-                                        <li>Venture Capital</li>
-                                        <li>Entertainment Law</li>
-                                        <li>Sports Law</li>
-                                        <li>Media Law</li>
-                                        <li>Copyright Law</li>
-                                        <li>Technology Licensing</li>
-                                        <li>Commercial Law</li>
+                                        <li>Patent Law</li>
                                         <li>Privacy Law</li>
+                                        <li>Product & Industry</li>
+                                        <li>Product Development Assistance</li>
+                                        <li>Sports Law</li>
+                                        <li>Technology Law</li>
+                                        <li>Technology Licensing</li>
+                                        <li>Trademark Law</li>
                                         <li>Transactions - Contract Drafting, Vetting and Negotiations</li>
-                                        <li>Life Sciences</li>
+                                        <li>Venture Capital</li>
+                                        <li>Whitespace Analysis</li>
                                     </ul>
                                 </div>
                             </div>

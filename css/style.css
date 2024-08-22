@@ -233,20 +233,27 @@ section{
 .bannerText h1, .bannerText h2, .bannerText h3{
   text-transform: uppercase;
   letter-spacing: 2px;
+  text-aling: center;
+  font-size: 36px;
 }
+/*.bannerText h2{*/
+/*    line-height: 85px;*/
+/*}*/
 
 .bannerText h1 span, .bannerText h3 span{
-  font-family: 'DIN-Pro-Medium-500', sans-serif;
+  font-family: 'DIN-Pro-Bold-700', sans-serif;
+  font-size: 46px;
+  color: var(--primary-color);
 }
 .bannerText a{
   font-size: 35px;
   display: inline-block;
   color: #fff;
-  transform: translateY(100px);
-  -webkit-transform: translateY(100px);
-  -moz-transform: translateY(100px);
-  -ms-transform: translateY(100px);
-  -o-transform: translateY(100px);
+  transform: translateY(60px);
+  -webkit-transform: translateY(60px);
+  -moz-transform: translateY(60px);
+  -ms-transform: translateY(60px);
+  -o-transform: translateY(60px);
 }
 .bgBlack{
   background:url(../images/banner/body-banner.jpg) no-repeat;
@@ -371,7 +378,7 @@ section{
   background: #333;
 }
 .innerAbout p{
-  color: #666;
+  color: #ccc;
 }
 .aboutItemInner{
   background: var(--primary-color);
@@ -489,10 +496,11 @@ section{
   margin-top: 20px;
 }
 .innerAbout ul li{
-  color: #ffffff52;
+  color: #ccc;
   padding: 12px 0px;
   font-family: 'DIN-Pro-Medium-500', sans-serif;
   border-bottom: 1px solid var(--primary-color);
+  cursor:pointer;
 }
 .innerAbout ul li:last-child{
   border-bottom: none;
@@ -595,11 +603,12 @@ section{
 }
 .innerDetails span{
   color: black;
-  font-family: 'DIN-Pro-Black 900';
+  font-family: 'DIN-Pro-Bold-700';
 }
 .innerDetails ul li{
   padding-left: 24px;
-  font-size: 18px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.751);
   position: relative;
 }
 .practicesContainer h2{
@@ -614,7 +623,7 @@ section{
   margin: 10px 0;
   font-size: 19px;
 }
-.innerDetails ul li::before, .productsItem ul li:before {
+.innerDetails ul li::before {
   content: '';
   width: 9px;
   height: 10px;
@@ -933,4 +942,7 @@ section{
 .innerAboutLogo ul li span{
   float: right;
   margin-right: 10px;
+}
+.font20{
+    font-size:20px;
 }

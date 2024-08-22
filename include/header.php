@@ -23,7 +23,7 @@
 					<li class="<?php if ($page == 'contact') {
 									echo 'active';
 								} ?>"><a href="contact.php">Contact Us</a></li>
-					<li><a href="/">Blog</a></li>
+					<!--<li><a href="/">Blog</a></li>
 					<!--<li><a href="/">Podcast</a></li>-->
 				</ul>
 

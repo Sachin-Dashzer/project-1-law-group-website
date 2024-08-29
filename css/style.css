@@ -966,6 +966,24 @@ section{
 }
 
 
+.discriptionBox h5 , .discriptionBox ul li{
+  line-height: 35px;
+  font-size: 20px;
+  
+}
+.discriptionBox ul{
+  margin-top: 15px;
+  padding-left: 20px;
+}
+.discriptionBox ul li a , .discriptionBox h5 a{
+    color: #931615;
+}
+.discriptionBox ul li{
+  margin-top: 15px;
+}
+.discriptionBox ul ul li{
+  margin-top: 8px;
+}
 
 
 

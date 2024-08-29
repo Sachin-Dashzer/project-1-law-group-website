@@ -368,10 +368,13 @@ section{
 .shortBannerText h1{
   font-family: 'DIN-Pro-Medium-500', sans-serif;
 }
-.shortBannerText h1 span{
+.shortBannerText h1 span , .newShortheading span{
   display: inline-block;
   padding:15px 30px;
   border:2px solid var(--primary-color)
+}
+.newForm-container{
+    background-color: #fafafa;
 }
 
 .bgGrey{
@@ -531,7 +534,9 @@ section{
   cursor: pointer;
 
 }
-
+.outerDetails .font20{
+    color: rgba(0, 0, 0, 0.751);
+}
 
 
 
@@ -946,3 +951,26 @@ section{
 .font20{
     font-size:20px;
 }
+
+
+
+
+
+.new-region h2:first-child{
+  border-right:  2px  solid rgba(255, 255, 255, 0.406);}
+.new-region h2{
+  height: unset !important;
+  padding: 0 20px;
+  height: 15px;
+  line-height: 26px !important;
+}
+
+
+
+
+
+
+
+
+
+

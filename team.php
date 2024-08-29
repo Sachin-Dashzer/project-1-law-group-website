@@ -22,7 +22,7 @@
         <section class="shortBanner" style="background-image: url(images/bg/team.jpg);">
             <div class="containerFull h-100">
                 <div class="shortBannerText">
-                    <h1 class="large_heading text-uppercase text-white"><span>Team & Departments</span></h1>
+                    <h1 class="large_heading text-uppercase text-white"><span>Departments</span></h1>
                 </div>
             </div>
         </section>
@@ -60,7 +60,7 @@
                                     <div class="col-md-9 ">
                                         <div class="outerDetails">
                                             <h3 class="sub_heading ">TECHNOLOGY LAW</h3>
-                                            <h5 class="mt-lg-3 font20 mt-2">Our Technology Law Department is dedicated to providing comprehensive legal solutions tailored to the rapidly evolving landscape of the digital world.</h5>
+                                            <p class="mt-lg-3 font20 mt-2">Our Technology Law Department is dedicated to providing comprehensive legal solutions tailored to the rapidly evolving landscape of the digital world.</p>
                                             <div class="innerDetails mt-lg-4 mt-3">
                                                 <p>Our team is well-versed with intricacies of technology law including AI. From drafting and negotiating technology-related contracts such as Software Development Agreements, Licensing Agreements, Master Service Agreements, Technology Transfer Agreements, End User License Agreement, Privacy Policy, Website Terms and Conditions, Non-Disclosure Agreements and Data Protection Agreements; We also advise on cybersecurity, and regulatory compliance, we ensure that our clients navigate the complex legal challenges of the digital age with confidence. Whether you are a start-up developing cutting-edge technology or an established corporation expanding your digital presence, our Technology Law Department is here to provide you with the customized guidance and support you need to succeed in today’s technology-driven marketplace. Our practice focuses on offering legal services curated for industries having high involvement of technology ranging from pharmaceuticals, AI, engineering, life sciences, textile, bio-chemistry, healthcare, civil engineering, general software, etc.</p>
                                             </div>
@@ -93,7 +93,7 @@
                                     <div class="col-md-9 ">
                                         <div class="outerDetails">
                                             <h3 class="sub_heading ">INTERNATIONAL PATENTS</h3>
-                                            <h5 class="font20 mt-lg-3 mt-2">Our Patent Department comprises of registered patent attorneys across jurisdictions including in the USA.</h5>
+                                            <p class="font20 mt-lg-3 mt-2">Our Patent Department comprises of registered patent attorneys across jurisdictions including in the USA.</p>
                                             <div class="innerDetails mt-lg-4 mt-3">
                                                 <p>While each patent portfolio is managed by our senior attorneys, the department is structured to additionally service each patent by an expert considering the stage of the patent, industry and jurisdiction:</p>
                                                 <p class="mt-2"><span>Seasoned patent attorneys,</span> who lead patent filing strategies for fast-track grants, international filings, lead prosecution with the USPTO, personally draft claim sets for all patents and personally manage every portfolio, they are additionally supported by:</p>
@@ -133,7 +133,7 @@
                                     <div class="col-md-9 ">
                                         <div class="outerDetails">
                                             <h3 class="sub_heading ">INTERNATIONAL TRADEMARKS & COPYRIGHTS</h3>
-                                            <h5 class="font20 mt-lg-3 mt-2">Our Trademarks & Copyrights Department excels in securing and defending brand identities & creative works in an increasingly competitive market in US, India and other jurisdictions. </h5>
+                                            <p class="font20 mt-lg-3 mt-2">Our Trademarks & Copyrights Department excels in securing and defending brand identities & creative works in an increasingly competitive market in US, India and other jurisdictions. </p>
                                             <div class="innerDetails mt-lg-4 mt-3">
                                                 <p>Our experienced attorneys navigate the complexities of registration and enforcement. Our team also provides strategic advice on brand management, to strengthen your brand’s presence and value across multiple jurisdictions. With our experts by your side, you can be confident that your intellectual property is in capable hands, allowing you to focus on growing your business.</p>
                                                 
@@ -168,7 +168,7 @@
                                     <div class="col-md-9 ">
                                         <div class="outerDetails">
                                             <h3 class="sub_heading ">INTERNATIONAL BUSINESS LAW</h3>
-                                            <h5 class="font20 mt-lg-3 mt-2">Our International Business Law Department offers guidance on global business transactions, cross-border trade, and international regulatory compliance.</h5>
+                                            <p class="font20 mt-lg-3 mt-2">Our International Business Law Department offers guidance on global business transactions, cross-border trade, and international regulatory compliance.</p>
                                             <div class="innerDetails mt-lg-4 mt-3">
                                                 <p>This department deals with matters relating to export/import of goods, handling customs-related issues including Intellectual Property Infringement, Freedom to Operate Opinions, license agreements, franchise agreements, international transaction related matters.</p>
                                                 
@@ -203,7 +203,7 @@
                                     <div class="col-md-9 ">
                                         <div class="outerDetails">
                                             <h3 class="sub_heading ">INTERNATIONAL TRANSACTIONS</h3>
-                                            <h5 class="font20 mt-lg-3 mt-2">Our Transactions team comprises of attorneys having experience with multi-national companies such as L&T, Linde and such others, giving them the depth of expertise of cross-border transactional matters and international technology transfers.</h5>
+                                            <p class="font20 mt-lg-3 mt-2">Our Transactions team comprises of attorneys having experience with multi-national companies such as L&T, Linde and such others, giving them the depth of expertise of cross-border transactional matters and international technology transfers.</p>
                                             <div class="innerDetails mt-lg-4 mt-3">
                                                 <p>Our transactions team is closely connected with members of PE & Capital Markets who work on matters of mergers and acquisitions, joint ventures, licensing agreements, and international trade agreements. Whether you are expanding into new markets or seeking to optimize your global operations, our Transactions team is committed to helping you achieve your objectives with their wide web of network and connections.</p>
                                                 

@@ -31,13 +31,14 @@
 
 
 
-        <section class="form-container">
+        <!--<section class="form-container">-->
+        <section class="newForm-container">
 
 
             <div class="containerFull">
                 <div class="row">
-                    <div class="col-md-11 mx-auto mt-4">
-                        <div class="formBox">
+                    <div class="col-md-11 mx-auto mt-md-4 mt-5">
+                        <!-- <div class="formBox">
 
 
                             <div class="row">
@@ -83,10 +84,7 @@
                                                             </svg>
                                                         </div>
                                                         <div class="options">
-                                                            <!-- <div>
-                                                                <input id="option-1" name="dropdown1" type="radio" />
-                                                                <label class="option" for="option-1" data-txt="Looking For"></label>
-                                                            </div> -->
+                                                           
                                                             <div>
                                                                 <input id="option-2" name="dropdown1" type="radio" />
                                                                 <label class="option" for="option-2" data-txt="A free consultation (15-20mins)"></label>
@@ -144,11 +142,20 @@
                                             <p>By submitting this form, you agree to be contacted by our law firm, either by phone, text, or by email.</p>
                                             <button type="submit">Submit</button>
                                         </div>
+
+
+
+
                                     </form>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
+
+
+                        <div data-form-slug="6664746592047305" data-env="production" data-path="contact-us/6664746592047305" class="keap-custom-form"></div>
+
                     </div>
+
                 </div>
             </div>
         </section>
@@ -156,9 +163,16 @@
 
         <section class="contactBottom">
 
-            
+
             <div class="containerFull">
-                <h3 class="heading text-center">Cross-border legal representation in over 12 countries</h3>
+                 <h3 class="heading text-center">OFFICES</h3>
+                
+                    <div class="region new-region d-flex text-center mt-lg-4 mt-3 justify-content-center">
+                        <h2>USA</h2>
+                        <h2>INDIA</h2>
+                    </div>
+
+                <h3 class="heading text-center mt-lg-4 mt-3">GLOBAL REACH</h3>
                 <div class="row">
                     <div class="col-lg-11 mx-auto">
 
@@ -201,7 +215,7 @@
                                 </div>
                                 <div class="region">
                                     <h2>Africa</h2>
-                                    <p class="fontWeight300"></p>
+                                    <p class="fontWeight300"><span>Servicing Clients in Inbound and Outbound African Business</span></p>
                                 </div>
                                 <div class="region">
                                     <h2>North America</h2>
@@ -262,20 +276,20 @@
 
 
 
-        <div class="contactBox">
-            <div class="contacticons">
-                <div class="iconBox"><i class="fa-solid fa-location-dot"></i></div>
-                <p class="fontWeight300"><strong>US Address:</strong><br> 100 Postmaster Drive, #2831 McDonough,<br /> GA 30253, USA</p>
+            <div class="contactBox">
+                <div class="contacticons">
+                    <div class="iconBox"><i class="fa-solid fa-location-dot"></i></div>
+                    <p class="fontWeight300"><strong>US Address:</strong><br> 100 Postmaster Drive, #2831 McDonough,<br /> GA 30253, USA</p>
+                </div>
+                <div class="contacticons">
+                    <div class="iconBox"><i class="fa-solid fa-mobile-screen"></i></div>
+                    <p class="fontWeight300">+1 (800) 650-1559</p>
+                </div>
+                <div class="contacticons">
+                    <div class="iconBox"><i class="fa-brands fa-linkedin"></i></div>
+                    <p class="fontWeight300"></p>
+                </div>
             </div>
-            <div class="contacticons">
-                <div class="iconBox"><i class="fa-solid fa-mobile-screen"></i></div>
-                <p class="fontWeight300">+1 (202) 465-9596</p>
-            </div>
-            <div class="contacticons">
-                <div class="iconBox"><i class="fa-brands fa-linkedin"></i></div>
-                <p class="fontWeight300"></p>
-            </div>
-        </div>
 
 
         </section>
@@ -289,6 +303,41 @@
         <?php include 'include/footer.php'; ?>
     </div>
     <?php include 'include/footer-links.php'; ?>
+
+
+
+    <script>
+        (function(window, document) {
+            const keapForms = window.keapForms || {
+                SNIPPET_VERSION: '1.1.0',
+                appId: 'lwn778',
+            };
+
+            const script = document.createElement('script');
+
+            script.type = 'text/javascript';
+            script.crossOrigin = 'anonymous';
+            script.defer = true;
+            script.src = 'https://forms.keap.app/lib/public-form-embed.js?appId=lwn778&version=1.1.0';
+
+            script.onload = function() {
+                const keapFormsAfterLoad = window.keapForms;
+
+                if (!keapFormsAfterLoad.renderAllForms) {
+                    // eslint-disable-next-line no-console
+                    console.error('[Keap Forms] Error: could not load');
+                } else if (!keapFormsAfterLoad.invoked) {
+                    keapFormsAfterLoad.invoked = true;
+                    keapFormsAfterLoad.renderAllForms();
+                }
+            };
+            const firstScriptTag = document.getElementsByTagName('script')[0];
+
+            firstScriptTag.parentNode.insertBefore(script, firstScriptTag);
+            window.keapForms = keapForms;
+        }(window, document));
+    </script>
+
 </body>
 
 </html>

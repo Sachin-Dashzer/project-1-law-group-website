@@ -22,7 +22,7 @@
         <section class="shortBanner" style="background-image: url(images/bg/practices-bg.jpg);">
             <div class="containerFull h-100">
                 <div class="shortBannerText">
-                    <h1 class="large_heading text-uppercase text-white"><span>Practices</span></h1>
+                    <h1 class="large_heading text-uppercase text-white"><span>PRACTICE AREAS</span></h1>
                 </div>
             </div>
         </section>

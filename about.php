@@ -22,18 +22,17 @@
         <section class="shortBanner" style="background-image: url(images/bg/about-bg.jpg);">
             <div class="containerFull h-100">
                 <div class="shortBannerText">
-                    <h1 class="large_heading text-uppercase text-white"><span>About</span></h1>
+                    <h1 class="large_heading text-uppercase text-white text-center">AMD LAW GROUP is an international law firm, founded by Aurelia Mitchell Durant. Her partnership with Rimon Law has placed the firm’s practice across borders.</h1>
                 </div>
             </div>
         </section>
         <section class="bgUltraDark">
             <div class="containerFull">
                 <div class="row">
-                    <div class="col-lg-9 offset-lg-1">
+                    <div class="col-lg-10 offset-lg-1">
                         <div class="innerAbout">
-                            <h2 class="sub_heading text_primary">AMD LAW GROUP is an international law firm, founded by Aurelia Mitchell Durant. Her partnership with Rimon Law has placed the firm’s practice across borders.</h2>
-                            <p class="mt-4">The firm and its award-winning partners have been recognized for their specialization in Intellectual Property Laws, Technology Law as well as corporate transactions. AMD LAW GROUP’s international model allows a personalized and collaborative approach for bettering cross-border legal services.
-                            </p>
+                            <h2 class="sub_heading text_primary">The firm and its award-winning partners have been recognized for their specialization in Intellectual Property Laws, Technology Law as well as corporate transactions. AMD LAW GROUP’s international model allows a personalized and collaborative approach for bettering cross-border legal services.</h2>
+                            <!--<p class="mt-4"></p>-->
                         </div>
                     </div>
                 </div>
@@ -52,9 +51,9 @@
                             </div>
                             <div class="rightInnerAbout">
                                 <h4 class="heading fontWeight300 text-white">AURELIA MITCHELL DURANT</h4>
-                                <p>Aurelia Mitchell Durant, founder and Managing Partner of AMD LAW GROUP, is a pioneering figure in the legal landscape, with a career spanning over two decades. Ms. Durant's areas of focus encompass a wide spectrum of legal specialties, including Intellectual Property, International Business Law, Entertainment, Sports and Media, Technology Licensing, Emerging Companies and Venture Capital, Trademark, Copyright, and Artificial Intelligence.</p>
+                                <p>Aurelia Mitchell Durant, partner at <a href="https://www.rimonlaw.com/team/aurelia-mitchell-durant/" target="_blank" class="btnLink">Rimon Law</a> and the founding partner of AMD LAW GROUP, is a pioneering figure in the legal landscape, with a career spanning over two decades. Ms. Durant's areas of focus encompass a wide spectrum of legal specialties, including intellectual property, international business law, entertainment, sports and media, technology licensing, emerging companies and venture capital, trademark, copyright, and artificial intelligence.</p>
                                 <p>Throughout her career, Ms. Durant has advised on complex trademark, patent, and copyright matters before prestigious institutions such as the USPTO, TTAB, and U.S. Copyright Office. She has managed international intellectual property portfolios for national organizations and negotiated investment financing for multinational start-ups. Ms. Durant's impressive portfolio includes directing the intellectual property interests of music professionals, liaising with licensing executives for copyright content clearance, and leading the legal team for the development of a global money transfer online application valued at $2 billion. She has been pivotal in restructuring corporate boards within the not-for-profit sector, emphasizing compliance and governance best practices. </p>
-                                <a href="https://www.rimonlaw.com/" target="_blank" class="btnLink">www.rimonlaw.com</a>
+                                
                                 <div>
                                     <a href="/" class="btnWhite">Book an appointment</a>
                                 </div>
@@ -90,9 +89,10 @@
                         <div class="aboutItemInner greyBg">
                             <div class="rightInnerAboutLeft order-2 order-lg-1">
                                 <h4 class="heading text-uppercase fontWeight300 text-white">Ragini Shah</h4>
-                                <p>Ragini Shah, a UC Berkeley graduate in Intellectual Property Law is a Senior Partner at AMD LAW GROUP and a Global Alliance Partner at RIMON LAW. With over a decade of profound experience in the legal arena, Ms. Shah’s expertise in Intellectual Property as well as Corporate law makes her an asset to the firm. Her experience shines particularly bright in international IP strategies, legal opinions, product development and expediting patent filings on an international scale, especially in the USA and in India. </p>
-                                <p>Ms. Shah has serviced some notable Healthcare organizations in the US, such as Clinton Health Access Initiative; she has extensively worked with some of India’s leading companies within the Telecom industry, home appliances industry, as well as medical devices companies, software companies, etc., showcasing her ability to deliver top-tier legal services to industry giants from versatile fields.</p>
-                                <p>Within the realm of IP and Technology Law, Ms. Shah and her team of attorneys, patent agents, paralegals and technology experts are proficient in patents, designs, trademarks, master service agreements, data sharing agreements, technology transfer agreements, trade secrets, licensing agreements, inter alia. </p>
+                                <p>Ragini Shah, a UC Berkeley graduate in Intellectual Property Law is a Senior Partner at AMD LAW GROUP and a Global Alliance Partner at RIMON LAW. With over a decade of profound experience in the legal arena, Ms. Shah’s expertise in Intellectual Property as well as Corporate law makes her an asset to the firm. Her experience shines particularly bright in international ip strategies, business &amp; legal strategies, investment strategies &amp; company asset
+transactions, legal opinions, product development and expediting patent filings on an international scale, especially in the USA and India. </p>
+                                <p>Ms. Shah has serviced some notable Healthcare organizations in the US, such as Clinton Health Access Initiative; she has extensively worked with some of India’s leading companies within the telecom industry, home appliances industry, as well as medical devices companies, software companies, etc., showcasing her ability to deliver top-tier legal services to industry giants from versatile fields.</p>
+                                <p>Within the realm of ip and technology law, Ms. Shah and her team of attorneys, patent agents, paralegals and technology experts are proficient in patents, designs, trademarks, master service agreements, data sharing agreements, technology transfer agreements, trade secrets, licensing agreements, inter alia. </p>
                                 <div class="moreContent" style="display:none">
                                     <p>Externally, Ms. Shah's influence extends to shaping policy and regulations within the legal landscape. She has lent her expertise to advising the Indian Patent Office on drafting the National Pharmaceutical Guidelines in 2014, contributing to the much-needed updates in patent regulations at the time. Currently, Ms. Shah is at the forefront of advising international non-profit organizations, and has been elected as a facilitator by the Indian Government to represent and guide Indian Companies with their inventions and Patents.
                                     </p>

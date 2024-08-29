@@ -273,7 +273,11 @@
     font-size: 16px;
     text-align: center;
   }
-
+.font20 {
+   
+    font-size: 15px;
+    line-height: 23px;
+}
   .innerAward {
     height: 120px;
   }
@@ -288,6 +292,11 @@
   }
   .footer p {
     font-size: 10px;
+  }
+  .new-region h2{
+      padding: 0 15px !important;
+      font-size: 17px !important;
+      line-height: 20px !important;
   }
   .footer {
     padding-bottom: 25px;

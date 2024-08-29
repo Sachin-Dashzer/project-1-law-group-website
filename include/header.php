@@ -16,10 +16,10 @@
 								} ?>"><a href="about.php">About</a></li>
 					<li class="<?php if ($page == 'team') {
 									echo 'active';
-								} ?>"><a href="team.php">Our Team</a></li>
+								} ?>"><a href="team.php">Departments</a></li>
 					<li class="<?php if ($page == 'practices') {
 									echo 'active';
-								} ?>"><a href="practices.php">Expertise</a></li>
+								} ?>"><a href="practices.php">Practice Areas</a></li>
 					<li class="<?php if ($page == 'contact') {
 									echo 'active';
 								} ?>"><a href="contact.php">Contact Us</a></li>
@@ -55,10 +55,11 @@
 		<div class="d-md-none">
 			<ul>
 				<li><a href="about.php">About</a></li>
-				<li><a href="team.php">Our Team</a></li>
+				<li><a href="team.php">Departments</a></li>
+				<li><a href="practices.php">Expertise</a></li>
 				<li><a href="contact.php">Contact Us</a></li>
-				<li><a href="/">Blog</a></li>
-				<li><a href="/">Podcast</a></li>
+				<!--<li><a href="/">Blog</a></li>-->
+				<!--<li><a href="/">Podcast</a></li>-->
 			</ul>
 			<hr>
 		</div>

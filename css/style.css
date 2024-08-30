@@ -975,19 +975,22 @@ section{
   margin-top: 15px;
   padding-left: 20px;
 }
+.newpadding{
+  padding-left: 20px;
+}
 .discriptionBox ul li a , .discriptionBox h5 a{
     color: #931615;
+    font-family: 'Minion-Regular';
+    font-weight: 700;
 }
 .discriptionBox ul li{
   margin-top: 15px;
+  display: flex;
+  gap: 10px;
 }
 .discriptionBox ul ul li{
   margin-top: 8px;
 }
-
-
-
-
 
 
 
